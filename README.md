@@ -4,9 +4,8 @@
 This repository contains code for attempting to reproduce the paper
  - [Deep Learning-Based Classification of Hyperspectral Data](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6844831)
 
-Deep learning-based classification of hyperspectral data
-
-**The code in the src/ directory is predominately from the original authors of the mentioned paper.**
+**The code in the src/ directory is predominately from the original authors of the mentioned paper,
+and originates from https://github.com/hantek/deeplearn_hsi .**
 
 Some modifications to the code were necessary to make the code run, as well as in attempting to
 improve the replication attempt.
