@@ -7,6 +7,10 @@ This repository contains code for attempting to reproduce the paper
 **The code in the src/ directory is predominately from the original authors of the mentioned paper,
 and originates from https://github.com/hantek/deeplearn_hsi .**
 
+**IMPORTANT: The contents of the src/ directory are almost entierly unmodified, including the README.md file.
+The README.md file in src/ also talks about reproducibility, but this is from the paper authors rather
+than the actual replication attempt.**
+
 Some modifications to the code were necessary to make the code run, as well as in attempting to
 improve the replication attempt.
 
